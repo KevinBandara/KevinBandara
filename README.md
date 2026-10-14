@@ -1,11 +1,11 @@
 <h1 align="center">Kevin Bandara</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=2500&center=true&vCenter=true&width=750&lines=Architecting+Scalable+AI+Systems;Full-Stack+Engineer;Founder+%40+Lycoryx+Technologies;Building+Systems+That+Handle+Real+Scale" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=2500&center=true&vCenter=true&width=750&lines=Architecting+Scalable+AI+Systems;Full-Stack+Engineer;Founder+%40+Corvento+Technologies;Building+Systems+That+Handle+Real+Scale" />
 </p>
 
 <p align="center">
-  <b>AI Architect • Full-Stack Engineer • Founder @ Lycoryx Technologies</b>
+  <b>AI Architect • Full-Stack Engineer • Founder @ Corvento Technologies</b>
 </p>
 
 ---
@@ -45,7 +45,7 @@ I don’t build apps.
 
 I engineer **systems that scale under pressure**.
 
-As the founder of **Lycoryx Technologies**, my focus is on designing **AI-driven platforms** and **high-performance infrastructures** built for real-world usage — not prototypes.
+As the founder of **Corvento Technologies**, my focus is on designing **AI-driven platforms** and **high-performance infrastructures** built for real-world usage — not prototypes.
 
 My work operates at the intersection of:
 - **System Architecture**
@@ -98,7 +98,7 @@ Same mindset — applied to engineering.
 
 ## 📬 Connect
 
-Through **Lycoryx Technologies** or portfolio.
+Through **Corvento Technologies** or portfolio.
 
 ---
 
